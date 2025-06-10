@@ -30,8 +30,9 @@ section .dua {
 }
 
 .bg {
-    background-image: url('bg-2.png');
-    background-size: 100%;
+    background-image: url('bg.png');
+    background-size: cover;
+    background-position: center;
     height: 700px;
 }
 
